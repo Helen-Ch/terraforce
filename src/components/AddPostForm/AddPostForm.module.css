@@ -1,0 +1,54 @@
+.Wrapper {
+    padding: 110px 0 40px;
+    display: grid;
+    gap: 20px;
+    justify-content: center;
+}
+
+.AddPostForm {
+    padding-top: 40px;
+    display: grid;
+    gap: 20px;
+    grid-template-columns: 1fr;
+}
+
+.BrandButton {
+    display: inline-flex;
+    height: 30px;
+    padding: 5px 10px;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    background: linear-gradient(22deg, #E42855 0%, #FF6476 100%);
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+}
+
+.BrandButton:not(.Disabled):hover {
+    background: #D13E52;
+}
+
+.Disabled {
+    cursor: not-allowed;
+    background: linear-gradient(22deg, #EDD7D9 0%, #FAD7DC 100%);
+}
+
+.BrandButton:focus {
+    outline: none;
+}
+
+.Input {
+    width: 280px;
+    height: 30px;
+    padding: 4px 15px 4px 15px;
+    border-radius: 10px;
+    background: linear-gradient(90deg, #F6F9FC -0.39%, #F4F5F8 99.61%);
+    border: none;
+}
+
+.Input:focus {
+    outline: none;
+}
