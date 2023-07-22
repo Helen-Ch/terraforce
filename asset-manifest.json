@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/terraforce/static/css/main.e9c0c872.css",
+    "main.js": "/terraforce/static/js/main.6b297dd9.js",
+    "static/js/787.bb340378.chunk.js": "/terraforce/static/js/787.bb340378.chunk.js",
+    "index.html": "/terraforce/index.html",
+    "main.e9c0c872.css.map": "/terraforce/static/css/main.e9c0c872.css.map",
+    "main.6b297dd9.js.map": "/terraforce/static/js/main.6b297dd9.js.map",
+    "787.bb340378.chunk.js.map": "/terraforce/static/js/787.bb340378.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9c0c872.css",
+    "static/js/main.6b297dd9.js"
+  ]
+}
