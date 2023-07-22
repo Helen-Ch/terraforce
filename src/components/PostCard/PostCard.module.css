@@ -16,7 +16,8 @@
 
 .PostDate {
     color: #B6B7BA;
-    font-size: 12px;;
+    font-size: 12px;
+    white-space: nowrap;
 }
 
 .Img {
